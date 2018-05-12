@@ -1,0 +1,38 @@
+_repo: Eredeti-n-pmes-k_38852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arany, László
+    alias: Arany, Laszlo
+    birthdate: 1844
+    deathdate: 1898
+    gutenberg_agent_id: '39683'
+    url: http://www.gutenberg.org/2009/agents/39683
+    wikipedia: http://hu.wikipedia.org/wiki/Arany_L%C3%A1szl%C3%B3
+description: ''
+gutenberg_issued: '2012-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38852'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- Hungary'
+tableOfContents: A vak király -- A boltos három lyánya -- A czigány fiú -- Ráadó és
+  Anyicska -- Az aranyhajú herczegkisasszony -- Az őzike -- A veres tehén -- A tündérkisasszony
+  és a czigánylyány -- Az ördög-szerető -- Jankó és a három elátkozott királykisasszony
+  -- Az ördög és a két lyány -- A kis malacz és a farkasok -- Zsuzska és az ördög
+  -- Fehérlófia -- A nyelves királykisasszony -- Gagyi gazda -- Babszem Jankó -- Dongó
+  meg Mohácsi -- A szomorú királykisasszony -- A macska és az egér -- A farkas-tanya
+  -- Panczimanczi -- A hólyag, szalmaszál és a tüzes üszök -- A kis gömböcz -- Farkas-barkas
+  -- A kakaska és a jérczike -- A két koszorú -- A kóró és a kis madár -- A kis ködmön
+  -- Iczinke-piczinke -- Mért haragszik a disznó a kutyára, a kutya a macskára, a
+  macska az egérre -- Találós mesék -- Csali-mesék -- Megfejtések. --  --
+title: Eredeti népmesék
+url: http://www.gutenberg.org/ebooks/38852
