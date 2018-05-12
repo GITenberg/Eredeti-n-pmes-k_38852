@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39683
     wikipedia: http://hu.wikipedia.org/wiki/Arany_L%C3%A1szl%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38852#Eredeti-n-pmes-k
 gutenberg_issued: '2012-02-12'
 gutenberg_type: Text
 identifiers:
